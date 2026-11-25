@@ -1,0 +1,14 @@
+
+
+section{
+    width: 100%;
+    min-height: 600px;
+
+}
+.hero{
+    bgcolor: #e68484;
+}
+
+.creation {
+    bgcolor: #8181bb;
+}

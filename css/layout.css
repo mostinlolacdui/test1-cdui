@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body{
+
+widht: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+
+}
+
+header {
+    widht: 100%;
+    min-height: 80px;
+    background-color: #bd3939;
+    display: flex;justify-content: space-between;align-items: center;
+}
+main{
+    widht: 100%;
+    min-height: 500px;
+}
+
+footer {
+    widht: 100%;
+    min-height: 400px;
+    background-color: #39bd70;
+}
